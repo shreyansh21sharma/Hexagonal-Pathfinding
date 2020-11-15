@@ -1,6 +1,6 @@
 # Hexagonal-Pathfinding
 In the past few years, pathfinding algorithms have risen into prominence on  global scale. With use in various technologies like routing protocols in the internet, flight plan navigation, celestial body tracking and many more. Another very important use has been in cellular networks. A cellular network, also called mobile network, is a communication network where the last link is wireless. Rather than defining the path of connectivity, actual land areas covered as considered to be grids operating on certain frequencies.
-These land areas are called cells, each served by at least one fixed-location transceiver called base stations.
+These land areas are called cells, each served by at least one fixed-location transceiver called base stations. <br />
 ![Rural Urban Zone](images/rural.png?raw=true) <br />
 The grid structure hence needs to be such that it satisfies all conditions and constraints required of a mobile network.
 ### 1. Criteria for Grid Selection
